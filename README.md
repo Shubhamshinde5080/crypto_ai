@@ -1,5 +1,5 @@
-# Crypto AI
+# crypto_ai
 
-This is a placeholder README so that Poetry can successfully install the project package.
-
-Feel free to expand this file with project overview, setup instructions, and usage examples.
+**Goal**: Binary long / flat signals on BTC-USDT 1-hour candles  
+**KPI**: Out-of-sample Sharpe ≥ 1.0, max draw-down ≤ 20 %  
+Signals auto-post to Telegram & Twitter; optional auto-trade via Binance.
